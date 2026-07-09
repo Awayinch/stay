@@ -1,0 +1,13 @@
+{
+  "name": "@stay/apps-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:apps-mobile",
+    "build": "echo build:apps-mobile",
+    "lint": "echo lint:apps-mobile",
+    "test": "echo test:apps-mobile",
+    "check": "echo check:apps-mobile"
+  }
+}

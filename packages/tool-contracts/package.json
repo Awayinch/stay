@@ -1,0 +1,13 @@
+{
+  "name": "@stay/packages-tool-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:packages-tool-contracts",
+    "build": "echo build:packages-tool-contracts",
+    "lint": "echo lint:packages-tool-contracts",
+    "test": "echo test:packages-tool-contracts",
+    "check": "echo check:packages-tool-contracts"
+  }
+}

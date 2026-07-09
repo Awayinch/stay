@@ -1,0 +1,13 @@
+{
+  "name": "@stay/services-worker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:services-worker",
+    "build": "echo build:services-worker",
+    "lint": "echo lint:services-worker",
+    "test": "echo test:services-worker",
+    "check": "echo check:services-worker"
+  }
+}

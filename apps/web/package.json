@@ -1,0 +1,13 @@
+{
+  "name": "@stay/apps-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:apps-web",
+    "build": "echo build:apps-web",
+    "lint": "echo lint:apps-web",
+    "test": "echo test:apps-web",
+    "check": "echo check:apps-web"
+  }
+}

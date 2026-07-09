@@ -1,0 +1,13 @@
+{
+  "name": "@stay/services-chat-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:services-chat-api",
+    "build": "echo build:services-chat-api",
+    "lint": "echo lint:services-chat-api",
+    "test": "echo test:services-chat-api",
+    "check": "echo check:services-chat-api"
+  }
+}

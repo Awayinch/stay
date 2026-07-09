@@ -1,0 +1,13 @@
+{
+  "name": "@stay/packages-native-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:packages-native-bridge",
+    "build": "echo build:packages-native-bridge",
+    "lint": "echo lint:packages-native-bridge",
+    "test": "echo test:packages-native-bridge",
+    "check": "echo check:packages-native-bridge"
+  }
+}

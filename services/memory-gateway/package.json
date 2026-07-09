@@ -1,0 +1,13 @@
+{
+  "name": "@stay/services-memory-gateway",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:services-memory-gateway",
+    "build": "echo build:services-memory-gateway",
+    "lint": "echo lint:services-memory-gateway",
+    "test": "echo test:services-memory-gateway",
+    "check": "echo check:services-memory-gateway"
+  }
+}

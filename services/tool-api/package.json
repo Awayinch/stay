@@ -1,0 +1,13 @@
+{
+  "name": "@stay/services-tool-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:services-tool-api",
+    "build": "echo build:services-tool-api",
+    "lint": "echo lint:services-tool-api",
+    "test": "echo test:services-tool-api",
+    "check": "echo check:services-tool-api"
+  }
+}

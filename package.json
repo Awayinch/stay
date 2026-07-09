@@ -1,0 +1,17 @@
+{
+  "name": "stay",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Personal AI companion system with web, mobile, async tools, voice, and memory.",
+  "packageManager": "pnpm@9.15.4",
+  "scripts": {
+    "dev": "pnpm -r --parallel dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "check": "pnpm -r check"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

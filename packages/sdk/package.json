@@ -1,0 +1,13 @@
+{
+  "name": "@stay/packages-sdk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo dev:packages-sdk",
+    "build": "echo build:packages-sdk",
+    "lint": "echo lint:packages-sdk",
+    "test": "echo test:packages-sdk",
+    "check": "echo check:packages-sdk"
+  }
+}

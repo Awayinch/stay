@@ -1,0 +1,38 @@
+# env / secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+*.jks
+*.keystore
+
+# deps / build
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# runtime data
+*.db
+*.db*
+*.sqlite*
+chat.db*
+uploads/
+backups/
+Brain/
+worldbook/
+
+# temp
+*.log
+*.tmp
+*.bak
+*.bak-*
+__pycache__/
+.DS_Store
+
+# android build
+android/app/build/
+apps/mobile/android/app/build/
